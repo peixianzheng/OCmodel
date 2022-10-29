@@ -1,0 +1,295 @@
+id	Survival_status	additional_radiation_therapy*	age_at_initial_pathologic_diagnosis	anatomic_subdivision	clinical_stage*	lymphatic_invasion	histologic_grade	cancer_status*	primary_therapy_outcome	tumor_residual_disease	Risk
+TCGA-25-1626	Dead	NO	>65	Right	Stage III	NA	G3	WITH TUMOR	Partial Remission/Response	>20 mm	H
+TCGA-25-2042	Dead	NO	<=65	Bilateral	Stage III	NA	G3	WITH TUMOR	Progressive Disease	>20 mm	H
+TCGA-24-2288	Dead	NA	>65	Bilateral	Stage III	YES	G3	WITH TUMOR	NA	>20 mm	H
+TCGA-29-1695	Dead	NA	<=65	Left	Stage III	NA	G2	NA	NA	>20 mm	H
+TCGA-24-1842	Alive	NA	<=65	Bilateral	Stage III	YES	G3	TUMOR FREE	Complete Remission/Response	1-10 mm	H
+TCGA-24-1553	Dead	NO	<=65	Bilateral	Stage III	NA	G3	WITH TUMOR	Complete Remission/Response	1-10 mm	H
+TCGA-25-1633	Dead	NO	<=65	Bilateral	Stage III	NA	G3	WITH TUMOR	Complete Remission/Response	1-10 mm	H
+TCGA-24-1564	Dead	YES	>65	Bilateral	Stage III	NA	G3	WITH TUMOR	Complete Remission/Response	1-10 mm	H
+TCGA-25-2398	Dead	NO	>65	Bilateral	Stage III	NA	G3	WITH TUMOR	Complete Remission/Response	1-10 mm	H
+TCGA-25-1635	Dead	NO	>65	Bilateral	Stage III	NA	G3	WITH TUMOR	Complete Remission/Response	1-10 mm	H
+TCGA-24-2290	Dead	NO	<=65	NA	Stage III	NA	G3	WITH TUMOR	Complete Remission/Response	1-10 mm	H
+TCGA-24-1434	Dead	NO	<=65	Bilateral	Stage III	YES	G3	WITH TUMOR	Partial Remission/Response	1-10 mm	H
+TCGA-24-1436	Dead	NA	<=65	Right	Stage III	YES	G3	WITH TUMOR	Partial Remission/Response	1-10 mm	H
+TCGA-25-1328	Dead	NO	<=65	Bilateral	Stage III	NA	G3	WITH TUMOR	Partial Remission/Response	1-10 mm	H
+TCGA-09-0366	Dead	NO	<=65	Bilateral	Stage III	NO	G3	WITH TUMOR	Stable Disease	1-10 mm	H
+TCGA-25-1625	Dead	NO	>65	Bilateral	Stage III	NA	G3	WITH TUMOR	Stable Disease	1-10 mm	H
+TCGA-13-1507	Dead	NA	>65	Bilateral	Stage III	NA	G3	WITH TUMOR	NA	1-10 mm	H
+TCGA-24-1546	Dead	NA	<=65	Bilateral	Stage III	NA	G3	NA	NA	1-10 mm	H
+TCGA-29-1690	Dead	NA	>65	Bilateral	Stage III	NA	G2	WITH TUMOR	NA	11-20 mm	H
+TCGA-24-2261	Dead	NA	>65	Left	Stage III	YES	G3	WITH TUMOR	NA	11-20 mm	H
+TCGA-13-1410	Alive	NA	<=65	Bilateral	Stage IV	NA	GX	WITH TUMOR	NA	NA	H
+TCGA-36-1576	Alive	NO	>65	NA	Stage III	YES	G3	WITH TUMOR	Complete Remission/Response	>20 mm	H
+TCGA-36-1578	Alive	NO	<=65	NA	Stage IV	NA	G3	WITH TUMOR	NA	>20 mm	H
+TCGA-29-1710	Dead	NO	<=65	Bilateral	Stage III	NA	G2	WITH TUMOR	Partial Remission/Response	1-10 mm	H
+TCGA-29-1783	Alive	NA	<=65	Right	Stage III	NA	G3	TUMOR FREE	NA	1-10 mm	H
+TCGA-61-2009	Alive	NO	>65	Bilateral	Stage III	YES	G3	WITH TUMOR	Complete Remission/Response	11-20 mm	H
+TCGA-61-1907	Alive	NO	<=65	Bilateral	Stage III	NA	G3	WITH TUMOR	Stable Disease	11-20 mm	H
+TCGA-61-2095	Dead	NO	<=65	Bilateral	Stage III	NA	G2	WITH TUMOR	Complete Remission/Response	No Macroscopic disease	H
+TCGA-61-2016	Dead	NA	<=65	Bilateral	Stage III	YES	G3	WITH TUMOR	Progressive Disease	No Macroscopic disease	H
+TCGA-61-2000	Alive	NO	>65	Bilateral	Stage III	YES	G3	WITH TUMOR	Stable Disease	No Macroscopic disease	H
+TCGA-31-1946	Alive	NO	<=65	Bilateral	Stage III	NO	G3	WITH TUMOR	NA	No Macroscopic disease	H
+TCGA-61-1721	Alive	NA	<=65	Bilateral	Stage IV	YES	G1	TUMOR FREE	Complete Remission/Response	NA	H
+TCGA-57-1994	Alive	NA	<=65	NA	NA	NA	NA	NA	NA	NA	H
+TCGA-24-1545	Dead	NO	>65	Bilateral	Stage III	NA	G3	WITH TUMOR	Complete Remission/Response	>20 mm	H
+TCGA-24-1924	Dead	NO	>65	Bilateral	Stage III	YES	G3	WITH TUMOR	Complete Remission/Response	1-10 mm	H
+TCGA-24-1551	Dead	NO	<=65	Bilateral	Stage III	NA	G3	WITH TUMOR	Complete Remission/Response	1-10 mm	H
+TCGA-25-1326	Dead	NO	<=65	Bilateral	Stage III	NA	G3	WITH TUMOR	Partial Remission/Response	1-10 mm	H
+TCGA-25-1628	Dead	NO	>65	NA	Stage III	NA	G3	WITH TUMOR	Stable Disease	1-10 mm	H
+TCGA-24-2262	Dead	NA	<=65	Right	Stage III	NA	G3	WITH TUMOR	NA	1-10 mm	H
+TCGA-25-1319	Dead	NO	>65	Bilateral	Stage III	NA	G3	NA	NA	11-20 mm	H
+TCGA-09-1667	Alive	YES	<=65	Bilateral	Stage II	NO	G2	WITH TUMOR	Complete Remission/Response	No Macroscopic disease	H
+TCGA-25-1623	Dead	NO	>65	Bilateral	Stage IV	NA	G3	WITH TUMOR	Complete Remission/Response	No Macroscopic disease	H
+TCGA-61-1741	Dead	NO	>65	Bilateral	Stage III	NA	G3	WITH TUMOR	Complete Remission/Response	>20 mm	H
+TCGA-61-2003	Alive	NA	<=65	Bilateral	Stage III	YES	G2	WITH TUMOR	Progressive Disease	1-10 mm	H
+TCGA-29-1699	Dead	NA	<=65	Bilateral	Stage III	YES	G3	NA	NA	1-10 mm	H
+TCGA-29-1711	Alive	NA	<=65	Bilateral	Stage III	NA	G2	TUMOR FREE	Complete Remission/Response	No Macroscopic disease	H
+TCGA-29-1778	Alive	NA	>65	Right	Stage III	NA	G3	TUMOR FREE	Complete Remission/Response	No Macroscopic disease	H
+TCGA-31-1951	Alive	NO	<=65	Left	Stage III	YES	G3	WITH TUMOR	NA	No Macroscopic disease	H
+TCGA-61-2111	Alive	NO	<=65	Left	Stage IV	NA	G3	WITH TUMOR	Complete Remission/Response	NA	H
+TCGA-31-1953	Alive	NO	<=65	Bilateral	Stage III	NO	G3	WITH TUMOR	Progressive Disease	NA	H
+TCGA-31-1959	Alive	NA	<=65	Bilateral	Stage IV	YES	G2	WITH TUMOR	NA	NA	H
+TCGA-59-2352	Dead	NA	>65	Right	Stage III	NA	G3	WITH TUMOR	NA	NA	H
+TCGA-61-2012	Alive	NA	>65	Left	Stage II	YES	G2	NA	NA	NA	H
+TCGA-61-2113	Dead	NO	<=65	Right	Stage II	YES	G3	NA	NA	NA	H
+TCGA-24-1418	Alive	NA	>65	Bilateral	Stage III	NA	G3	TUMOR FREE	Complete Remission/Response	>20 mm	H
+TCGA-23-1111	Alive	NA	<=65	Right	Stage III	YES	G3	NA	NA	>20 mm	H
+TCGA-24-2254	Dead	NO	>65	Bilateral	Stage III	YES	G3	WITH TUMOR	Complete Remission/Response	1-10 mm	H
+TCGA-24-1616	Dead	NO	<=65	Bilateral	Stage III	NA	G3	WITH TUMOR	Complete Remission/Response	1-10 mm	H
+TCGA-24-2038	Dead	NO	>65	Right	Stage III	NA	GB	WITH TUMOR	Complete Remission/Response	1-10 mm	H
+TCGA-25-1318	Dead	NO	<=65	Bilateral	Stage III	NA	G3	WITH TUMOR	Partial Remission/Response	1-10 mm	H
+TCGA-25-1631	Dead	NA	>65	Bilateral	Stage III	NA	G3	TUMOR FREE	NA	1-10 mm	H
+TCGA-04-1362	Dead	NO	<=65	Bilateral	Stage II	NA	G3	WITH TUMOR	NA	1-10 mm	H
+TCGA-24-1844	Alive	NA	<=65	Bilateral	Stage III	NA	G3	NA	NA	1-10 mm	H
+TCGA-25-1870	Dead	NO	<=65	Bilateral	Stage III	NA	G3	WITH TUMOR	Partial Remission/Response	11-20 mm	H
+TCGA-25-1321	Dead	NO	>65	Bilateral	Stage III	NA	G3	WITH TUMOR	Complete Remission/Response	No Macroscopic disease	H
+TCGA-25-2397	Dead	NA	<=65	Bilateral	Stage IV	NA	G3	NA	NA	No Macroscopic disease	H
+TCGA-24-1604	Dead	NA	>65	Bilateral	Stage III	NA	G3	WITH TUMOR	Complete Remission/Response	NA	H
+TCGA-29-1761	Dead	NA	>65	Bilateral	Stage III	NA	G3	WITH TUMOR	Stable Disease	>20 mm	H
+TCGA-30-1862	Dead	NA	>65	NA	Stage IV	NO	G2	WITH TUMOR	NA	>20 mm	H
+TCGA-61-2109	Dead	NO	<=65	Bilateral	Stage III	NO	G3	WITH TUMOR	NA	>20 mm	H
+TCGA-29-1703	Dead	NO	<=65	Bilateral	Stage III	NA	G2	WITH TUMOR	Complete Remission/Response	1-10 mm	H
+TCGA-29-1702	Dead	NO	>65	Right	Stage III	NA	G3	WITH TUMOR	Complete Remission/Response	1-10 mm	H
+TCGA-30-1891	Dead	NO	<=65	Bilateral	Stage III	NO	G2	WITH TUMOR	Partial Remission/Response	1-10 mm	H
+TCGA-61-1743	Dead	NO	<=65	Bilateral	Stage II	NA	G2	WITH TUMOR	Complete Remission/Response	No Macroscopic disease	H
+TCGA-61-2088	Alive	NA	<=65	Bilateral	Stage III	NO	G3	TUMOR FREE	NA	No Macroscopic disease	H
+TCGA-57-1993	Alive	NA	<=65	Bilateral	Stage III	YES	G3	TUMOR FREE	NA	No Macroscopic disease	H
+TCGA-24-2033	Dead	NO	>65	Bilateral	Stage III	NA	G3	WITH TUMOR	Partial Remission/Response	>20 mm	H
+TCGA-09-1673	Alive	NA	<=65	Bilateral	Stage IV	YES	G3	WITH TUMOR	NA	>20 mm	H
+TCGA-13-1511	Dead	NA	<=65	Bilateral	Stage IV	NA	G3	WITH TUMOR	NA	>20 mm	H
+TCGA-25-1322	Dead	NA	<=65	Bilateral	Stage IV	NA	G3	WITH TUMOR	NA	>20 mm	H
+TCGA-20-1684	Alive	NA	<=65	Bilateral	Stage III	NO	G3	TUMOR FREE	Complete Remission/Response	1-10 mm	H
+TCGA-24-1548	Dead	NO	<=65	Bilateral	Stage III	NA	G3	WITH TUMOR	Complete Remission/Response	1-10 mm	H
+TCGA-25-1323	Dead	NO	>65	Bilateral	Stage III	NA	G3	WITH TUMOR	Complete Remission/Response	1-10 mm	H
+TCGA-24-1560	Dead	NO	<=65	Left	Stage III	NA	G4	WITH TUMOR	Complete Remission/Response	1-10 mm	H
+TCGA-24-1544	Dead	NO	>65	Bilateral	Stage III	NA	G3	WITH TUMOR	Partial Remission/Response	1-10 mm	H
+TCGA-25-1314	Dead	NO	<=65	Bilateral	Stage IV	NA	G3	WITH TUMOR	Partial Remission/Response	1-10 mm	H
+TCGA-24-1474	Dead	NO	<=65	Left	Stage III	NA	G3	WITH TUMOR	Partial Remission/Response	1-10 mm	H
+TCGA-09-2054	Dead	NA	<=65	Bilateral	Stage III	YES	G3	WITH TUMOR	Progressive Disease	1-10 mm	H
+TCGA-25-1316	Dead	NO	<=65	Right	Stage III	NA	G3	WITH TUMOR	Progressive Disease	1-10 mm	H
+TCGA-13-1505	Alive	NA	<=65	Bilateral	Stage III	NA	G3	WITH TUMOR	NA	1-10 mm	H
+TCGA-23-1809	Alive	NA	<=65	Right	Stage II	NO	G3	NA	NA	1-10 mm	H
+TCGA-25-1324	Dead	NA	>65	Bilateral	Stage III	NA	G3	NA	NA	1-10 mm	H
+TCGA-25-1312	Dead	NA	>65	Left	Stage IV	NA	G3	NA	NA	1-10 mm	H
+TCGA-25-1871	Dead	NO	>65	Bilateral	Stage III	NA	G3	WITH TUMOR	Progressive Disease	11-20 mm	H
+TCGA-24-1928	Dead	NO	>65	Bilateral	Stage III	NA	G3	WITH TUMOR	Progressive Disease	11-20 mm	H
+TCGA-25-1329	Dead	NA	>65	Bilateral	Stage III	NA	G3	NA	NA	11-20 mm	H
+TCGA-24-1603	Dead	NO	<=65	Bilateral	Stage III	NA	G3	WITH TUMOR	Complete Remission/Response	NA	H
+TCGA-24-1555	Dead	NO	<=65	Bilateral	Stage III	NA	G3	WITH TUMOR	Complete Remission/Response	NA	H
+TCGA-13-1403	Dead	NA	<=65	Left	Stage III	NA	G3	WITH TUMOR	NA	NA	H
+TCGA-29-1697	Dead	NO	<=65	Bilateral	Stage III	NA	G3	WITH TUMOR	Complete Remission/Response	>20 mm	H
+TCGA-61-2097	Alive	NA	>65	Bilateral	Stage II	YES	G2	TUMOR FREE	Complete Remission/Response	1-10 mm	H
+TCGA-29-1698	Alive	NO	<=65	Bilateral	Stage III	NA	G3	WITH TUMOR	Complete Remission/Response	1-10 mm	H
+TCGA-57-1584	Alive	NO	<=65	Bilateral	Stage III	YES	G3	WITH TUMOR	NA	1-10 mm	H
+TCGA-36-1577	Alive	NA	<=65	Bilateral	Stage II	NA	G2	TUMOR FREE	Complete Remission/Response	No Macroscopic disease	H
+TCGA-36-1575	Alive	NA	>65	NA	Stage III	NO	G3	TUMOR FREE	NA	No Macroscopic disease	H
+TCGA-24-1427	Alive	NA	<=65	Bilateral	Stage III	YES	G3	WITH TUMOR	Partial Remission/Response	>20 mm	L
+TCGA-24-2293	Dead	NA	<=65	Right	NA	NA	G3	NA	Partial Remission/Response	>20 mm	L
+TCGA-09-1659	Dead	NA	<=65	Bilateral	Stage III	YES	G3	WITH TUMOR	Stable Disease	>20 mm	L
+TCGA-24-2271	Dead	NO	<=65	Bilateral	Stage III	YES	G3	WITH TUMOR	NA	>20 mm	L
+TCGA-24-2026	Dead	NA	>65	Bilateral	Stage III	YES	G3	NA	NA	>20 mm	L
+TCGA-24-1849	Alive	NA	>65	Bilateral	Stage III	YES	G3	TUMOR FREE	Complete Remission/Response	1-10 mm	L
+TCGA-24-1425	Alive	NA	<=65	Bilateral	Stage III	NA	G3	TUMOR FREE	Complete Remission/Response	1-10 mm	L
+TCGA-24-1417	Alive	NA	<=65	Left	Stage IV	NA	G3	TUMOR FREE	Complete Remission/Response	1-10 mm	L
+TCGA-04-1348	Dead	NO	<=65	Bilateral	Stage III	YES	G3	WITH TUMOR	Complete Remission/Response	1-10 mm	L
+TCGA-23-1023	Alive	NO	>65	Right	Stage III	YES	G3	WITH TUMOR	Complete Remission/Response	1-10 mm	L
+TCGA-24-2023	Dead	NO	<=65	Bilateral	Stage III	NA	G3	WITH TUMOR	Complete Remission/Response	1-10 mm	L
+TCGA-24-1930	Dead	YES	<=65	Bilateral	Stage III	NA	G3	WITH TUMOR	Complete Remission/Response	1-10 mm	L
+TCGA-24-1562	Dead	NO	>65	Bilateral	Stage III	NA	G3	WITH TUMOR	Complete Remission/Response	1-10 mm	L
+TCGA-25-2409	Dead	NO	>65	Bilateral	Stage IV	NA	G3	WITH TUMOR	Complete Remission/Response	1-10 mm	L
+TCGA-24-1556	Dead	YES	<=65	Left	Stage II	NA	G3	WITH TUMOR	Complete Remission/Response	1-10 mm	L
+TCGA-23-1026	Alive	NO	<=65	Left	Stage III	NA	G3	WITH TUMOR	Complete Remission/Response	1-10 mm	L
+TCGA-24-1563	Dead	NO	>65	Left	Stage III	NA	G3	WITH TUMOR	Complete Remission/Response	1-10 mm	L
+TCGA-25-1630	Dead	NA	>65	Bilateral	Stage III	NA	G3	NA	Complete Remission/Response	1-10 mm	L
+TCGA-23-1109	Dead	YES	<=65	Right	Stage III	NA	G3	WITH TUMOR	Partial Remission/Response	1-10 mm	L
+TCGA-09-0367	Dead	NA	>65	Bilateral	Stage III	YES	G3	WITH TUMOR	Progressive Disease	1-10 mm	L
+TCGA-25-1320	Dead	NO	>65	Bilateral	Stage III	NA	G3	WITH TUMOR	Progressive Disease	1-10 mm	L
+TCGA-23-1027	Dead	NO	<=65	Right	Stage III	YES	G3	NA	Progressive Disease	1-10 mm	L
+TCGA-13-0890	Alive	NA	<=65	Bilateral	Stage III	NA	G3	TUMOR FREE	NA	1-10 mm	L
+TCGA-13-0899	Dead	NA	<=65	Bilateral	Stage III	NA	G3	WITH TUMOR	NA	1-10 mm	L
+TCGA-13-0897	Dead	NA	<=65	Right	Stage III	NA	G3	WITH TUMOR	NA	1-10 mm	L
+TCGA-29-1694	Dead	YES	<=65	Bilateral	Stage III	NA	GX	WITH TUMOR	Stable Disease	11-20 mm	L
+TCGA-25-2392	Dead	NA	>65	Bilateral	Stage IV	NA	G3	NA	NA	11-20 mm	L
+TCGA-09-2056	Alive	NA	<=65	Bilateral	Stage III	NO	G3	TUMOR FREE	Complete Remission/Response	No Macroscopic disease	L
+TCGA-09-2051	Alive	NO	<=65	Bilateral	Stage III	YES	G3	TUMOR FREE	Complete Remission/Response	No Macroscopic disease	L
+TCGA-20-1687	Alive	NA	<=65	Bilateral	Stage IV	YES	G3	TUMOR FREE	Complete Remission/Response	No Macroscopic disease	L
+TCGA-09-1666	Alive	NO	<=65	Bilateral	Stage III	NO	G3	WITH TUMOR	Complete Remission/Response	No Macroscopic disease	L
+TCGA-25-2404	Dead	NO	<=65	Bilateral	Stage III	NA	G3	WITH TUMOR	Complete Remission/Response	No Macroscopic disease	L
+TCGA-13-0916	Alive	NA	<=65	Bilateral	Stage III	NA	G3	TUMOR FREE	NA	No Macroscopic disease	L
+TCGA-13-0801	Dead	NA	<=65	Bilateral	Stage III	NA	G3	WITH TUMOR	NA	No Macroscopic disease	L
+TCGA-13-1512	Alive	NA	<=65	Bilateral	Stage III	NA	G3	WITH TUMOR	NA	No Macroscopic disease	L
+TCGA-25-2396	Dead	NA	>65	Bilateral	Stage III	NA	G3	NA	NA	No Macroscopic disease	L
+TCGA-61-1917	Dead	NA	<=65	Bilateral	Stage III	NA	G3	NA	Complete Remission/Response	NA	L
+TCGA-29-1688	Dead	YES	<=65	Bilateral	Stage III	NA	G2	WITH TUMOR	Stable Disease	NA	L
+TCGA-29-2428	Alive	NA	<=65	Left	Stage III	YES	G3	TUMOR FREE	Complete Remission/Response	>20 mm	L
+TCGA-29-1705	Dead	NO	<=65	Bilateral	Stage III	NA	G2	WITH TUMOR	Complete Remission/Response	>20 mm	L
+TCGA-36-1574	Alive	NO	<=65	Bilateral	Stage III	NA	G3	WITH TUMOR	Complete Remission/Response	>20 mm	L
+TCGA-29-2427	Alive	NO	<=65	Left	Stage III	NA	G3	WITH TUMOR	Complete Remission/Response	>20 mm	L
+TCGA-29-1785	Dead	NO	<=65	Right	Stage III	YES	G3	NA	Complete Remission/Response	>20 mm	L
+TCGA-61-1740	Dead	NA	>65	Right	Stage III	YES	G3	WITH TUMOR	Progressive Disease	>20 mm	L
+TCGA-59-2355	Dead	NA	<=65	Right	Stage IV	YES	G3	WITH TUMOR	NA	>20 mm	L
+TCGA-36-1580	Dead	NO	>65	NA	Stage III	NA	G3	WITH TUMOR	NA	>20 mm	L
+TCGA-61-1737	Alive	NA	<=65	Bilateral	Stage IV	YES	G3	TUMOR FREE	Complete Remission/Response	1-10 mm	L
+TCGA-36-1569	Alive	NA	<=65	Bilateral	Stage III	YES	G3	NA	Partial Remission/Response	1-10 mm	L
+TCGA-59-2354	Dead	NO	<=65	Left	Stage III	YES	G3	WITH TUMOR	Stable Disease	1-10 mm	L
+TCGA-30-1718	Dead	NO	<=65	Bilateral	Stage III	NO	G3	WITH TUMOR	NA	1-10 mm	L
+TCGA-30-1855	Dead	NA	<=65	NA	Stage III	NO	G3	WITH TUMOR	NA	1-10 mm	L
+TCGA-61-2002	Alive	NA	<=65	Bilateral	Stage III	YES	G3	WITH TUMOR	Progressive Disease	11-20 mm	L
+TCGA-57-1585	Dead	NA	<=65	Bilateral	Stage III	YES	G3	WITH TUMOR	Progressive Disease	11-20 mm	L
+TCGA-61-1725	Alive	NO	<=65	Bilateral	Stage III	YES	G3	WITH TUMOR	Stable Disease	11-20 mm	L
+TCGA-29-1784	Alive	NA	<=65	Right	Stage III	YES	G3	TUMOR FREE	Complete Remission/Response	No Macroscopic disease	L
+TCGA-29-1781	Alive	NA	>65	Bilateral	Stage III	NA	G3	TUMOR FREE	Complete Remission/Response	No Macroscopic disease	L
+TCGA-36-1581	Alive	NO	<=65	Left	Stage II	NA	G3	WITH TUMOR	Complete Remission/Response	No Macroscopic disease	L
+TCGA-61-2104	Alive	NO	<=65	Bilateral	Stage II	NA	G2	NA	Complete Remission/Response	No Macroscopic disease	L
+TCGA-36-1568	Alive	NO	<=65	Bilateral	Stage III	NO	G3	WITH TUMOR	Partial Remission/Response	NA	L
+TCGA-31-1956	Alive	NO	<=65	Left	Stage III	YES	G3	WITH TUMOR	NA	NA	L
+TCGA-24-1463	Dead	NO	>65	Bilateral	Stage III	NA	G3	WITH TUMOR	Complete Remission/Response	>20 mm	L
+TCGA-24-2289	Dead	NO	>65	Bilateral	Stage IV	NA	G3	WITH TUMOR	Complete Remission/Response	>20 mm	L
+TCGA-25-2399	Dead	NO	>65	Bilateral	Stage III	NA	G3	WITH TUMOR	Partial Remission/Response	>20 mm	L
+TCGA-13-1498	Dead	NA	>65	NA	Stage III	NA	G3	WITH TUMOR	NA	>20 mm	L
+TCGA-13-1411	Dead	NA	>65	NA	Stage III	NA	G3	WITH TUMOR	NA	>20 mm	L
+TCGA-20-1685	Alive	NA	<=65	Bilateral	Stage III	NO	G3	TUMOR FREE	Complete Remission/Response	1-10 mm	L
+TCGA-24-2281	Alive	NA	>65	Bilateral	Stage II	YES	G3	TUMOR FREE	Complete Remission/Response	1-10 mm	L
+TCGA-24-1847	Alive	NA	<=65	Bilateral	Stage IV	YES	G3	TUMOR FREE	Complete Remission/Response	1-10 mm	L
+TCGA-24-1435	Dead	NO	<=65	Bilateral	Stage III	NO	G3	WITH TUMOR	Complete Remission/Response	1-10 mm	L
+TCGA-09-1662	Dead	NO	<=65	Left	Stage IV	YES	G3	WITH TUMOR	Complete Remission/Response	1-10 mm	L
+TCGA-24-1550	Dead	NO	<=65	Left	Stage III	NA	G3	WITH TUMOR	Complete Remission/Response	1-10 mm	L
+TCGA-24-1428	Alive	NO	<=65	Left	Stage III	NA	G3	WITH TUMOR	Complete Remission/Response	1-10 mm	L
+TCGA-23-1120	Alive	NA	<=65	Right	Stage III	NO	G3	NA	Complete Remission/Response	1-10 mm	L
+TCGA-24-1843	Alive	NA	>65	Right	Stage III	YES	G3	NA	Complete Remission/Response	1-10 mm	L
+TCGA-24-2035	Dead	NO	>65	Left	Stage III	NA	G3	WITH TUMOR	Partial Remission/Response	1-10 mm	L
+TCGA-13-0924	Alive	NA	<=65	Bilateral	Stage IV	NA	G3	WITH TUMOR	NA	1-10 mm	L
+TCGA-13-2060	Alive	NA	<=65	Bilateral	Stage IV	NA	G3	WITH TUMOR	NA	1-10 mm	L
+TCGA-24-1846	Alive	NA	<=65	Bilateral	Stage III	YES	G3	NA	NA	1-10 mm	L
+TCGA-25-2401	Dead	NA	<=65	Bilateral	Stage III	NA	G3	NA	NA	1-10 mm	L
+TCGA-13-0893	Dead	NO	<=65	Bilateral	Stage III	NA	G3	WITH TUMOR	Partial Remission/Response	11-20 mm	L
+TCGA-23-1123	Dead	NA	<=65	Left	Stage III	YES	G3	WITH TUMOR	Progressive Disease	11-20 mm	L
+TCGA-23-2077	Alive	NO	<=65	Left	Stage III	NO	G3	TUMOR FREE	Complete Remission/Response	No Macroscopic disease	L
+TCGA-09-2044	Alive	NA	>65	Right	Stage II	NO	G3	TUMOR FREE	Complete Remission/Response	No Macroscopic disease	L
+TCGA-23-2078	Alive	NA	>65	Bilateral	Stage III	YES	G3	TUMOR FREE	Complete Remission/Response	No Macroscopic disease	L
+TCGA-24-2267	Dead	NO	<=65	Bilateral	Stage II	YES	G3	WITH TUMOR	Complete Remission/Response	No Macroscopic disease	L
+TCGA-04-1365	Alive	NO	>65	Left	Stage III	NO	G3	WITH TUMOR	Complete Remission/Response	NA	L
+TCGA-09-1668	Alive	NA	<=65	Right	Stage III	NO	G3	WITH TUMOR	Complete Remission/Response	NA	L
+TCGA-24-1549	Dead	NO	<=65	Bilateral	Stage III	NA	G3	WITH TUMOR	Complete Remission/Response	NA	L
+TCGA-29-2425	Alive	NO	<=65	NA	Stage III	NO	G2	TUMOR FREE	Complete Remission/Response	>20 mm	L
+TCGA-30-1860	Dead	YES	<=65	Bilateral	Stage III	NO	G3	WITH TUMOR	Complete Remission/Response	>20 mm	L
+TCGA-61-1914	Alive	NO	>65	Bilateral	Stage III	YES	G3	WITH TUMOR	Complete Remission/Response	>20 mm	L
+TCGA-59-2351	Alive	NO	<=65	Bilateral	Stage III	NA	G3	TUMOR FREE	Complete Remission/Response	1-10 mm	L
+TCGA-31-1950	Alive	NO	>65	Bilateral	Stage III	NO	G2	WITH TUMOR	Partial Remission/Response	1-10 mm	L
+TCGA-61-1995	Alive	NA	<=65	Bilateral	Stage III	YES	G3	WITH TUMOR	Stable Disease	1-10 mm	L
+TCGA-61-1918	Dead	NO	<=65	Bilateral	Stage IV	NA	G3	WITH TUMOR	Complete Remission/Response	No Macroscopic disease	L
+TCGA-61-2094	Alive	NA	<=65	Bilateral	Stage III	NA	G3	TUMOR FREE	Complete Remission/Response	NA	L
+TCGA-61-1919	Dead	NO	<=65	Bilateral	Stage III	NA	G2	NA	Complete Remission/Response	NA	L
+TCGA-29-1701	Dead	NO	<=65	Bilateral	Stage III	YES	G3	WITH TUMOR	Partial Remission/Response	NA	L
+TCGA-29-1693	Alive	YES	>65	Left	Stage III	YES	G3	WITH TUMOR	Complete Remission/Response	>20 mm	L
+TCGA-24-2298	Dead	NO	<=65	Bilateral	Stage III	NA	G3	WITH TUMOR	Complete Remission/Response	>20 mm	L
+TCGA-10-0936	Dead	NA	>65	Bilateral	Stage III	YES	G3	WITH TUMOR	Partial Remission/Response	>20 mm	L
+TCGA-13-0730	Dead	NA	>65	Bilateral	Stage III	NA	G3	NA	NA	>20 mm	L
+TCGA-24-1850	Alive	NA	>65	Bilateral	Stage III	YES	G3	TUMOR FREE	Complete Remission/Response	1-10 mm	L
+TCGA-24-1416	Alive	NA	<=65	Bilateral	Stage IV	NA	G3	TUMOR FREE	Complete Remission/Response	1-10 mm	L
+TCGA-24-1469	Alive	NA	>65	Right	Stage III	NA	G3	TUMOR FREE	Complete Remission/Response	1-10 mm	L
+TCGA-24-2020	Dead	NO	>65	Bilateral	Stage III	NA	G3	WITH TUMOR	Complete Remission/Response	1-10 mm	L
+TCGA-25-1313	Dead	NO	<=65	Bilateral	Stage IV	NA	G3	WITH TUMOR	Complete Remission/Response	1-10 mm	L
+TCGA-29-1696	Dead	NO	<=65	Right	Stage III	NO	G2	WITH TUMOR	Partial Remission/Response	1-10 mm	L
+TCGA-09-2048	Dead	NA	<=65	Bilateral	Stage III	YES	G3	WITH TUMOR	Stable Disease	1-10 mm	L
+TCGA-25-1627	Dead	NA	>65	Bilateral	Stage III	NA	G3	NA	NA	1-10 mm	L
+TCGA-25-2393	Dead	NO	>65	Left	Stage III	NA	G3	WITH TUMOR	Partial Remission/Response	11-20 mm	L
+TCGA-23-2084	Dead	NO	<=65	Right	Stage IV	YES	G3	WITH TUMOR	Complete Remission/Response	No Macroscopic disease	L
+TCGA-25-2400	Dead	NO	>65	Bilateral	Stage III	NA	G3	WITH TUMOR	Complete Remission/Response	No Macroscopic disease	L
+TCGA-20-1683	Alive	NO	>65	Right	Stage III	NA	G3	TUMOR FREE	Stable Disease	No Macroscopic disease	L
+TCGA-13-1497	Alive	NA	<=65	NA	Stage III	NA	G3	TUMOR FREE	NA	NA	L
+TCGA-29-1776	Alive	NA	<=65	Bilateral	Stage III	NA	G3	WITH TUMOR	Stable Disease	>20 mm	L
+TCGA-61-1728	Alive	NO	<=65	Bilateral	Stage IV	NO	G3	TUMOR FREE	Complete Remission/Response	1-10 mm	L
+TCGA-61-1910	Alive	NA	<=65	Bilateral	Stage II	YES	G3	TUMOR FREE	Complete Remission/Response	1-10 mm	L
+TCGA-29-1763	Alive	YES	<=65	Bilateral	Stage II	NA	G2	WITH TUMOR	Complete Remission/Response	1-10 mm	L
+TCGA-29-1770	Alive	NO	<=65	Bilateral	Stage III	NA	G2	WITH TUMOR	Complete Remission/Response	1-10 mm	L
+TCGA-57-1582	Dead	NA	<=65	Left	Stage III	YES	G3	WITH TUMOR	Progressive Disease	1-10 mm	L
+TCGA-61-1738	Dead	NO	<=65	Right	Stage III	YES	G3	WITH TUMOR	Progressive Disease	1-10 mm	L
+TCGA-29-2414	Dead	YES	>65	Left	Stage III	NA	G2	WITH TUMOR	Complete Remission/Response	11-20 mm	L
+TCGA-61-2092	Alive	NA	<=65	Bilateral	Stage III	NO	G3	TUMOR FREE	Complete Remission/Response	No Macroscopic disease	L
+TCGA-61-2008	Alive	NO	<=65	Bilateral	Stage II	YES	G2	WITH TUMOR	Complete Remission/Response	No Macroscopic disease	L
+TCGA-36-1571	Dead	NO	<=65	Bilateral	Stage III	NO	G3	WITH TUMOR	Complete Remission/Response	No Macroscopic disease	L
+TCGA-31-1944	Alive	NO	<=65	Bilateral	Stage III	YES	G3	WITH TUMOR	Complete Remission/Response	No Macroscopic disease	L
+TCGA-61-1724	Dead	NO	<=65	Bilateral	Stage III	YES	G3	WITH TUMOR	Progressive Disease	No Macroscopic disease	L
+TCGA-61-1736	Dead	NO	<=65	Bilateral	Stage III	YES	G3	WITH TUMOR	Complete Remission/Response	NA	L
+TCGA-25-2391	Dead	NA	<=65	Bilateral	Stage III	NA	G3	TUMOR FREE	Complete Remission/Response	>20 mm	L
+TCGA-24-1430	Dead	NO	>65	Bilateral	Stage III	NA	G3	WITH TUMOR	Complete Remission/Response	>20 mm	L
+TCGA-24-2027	Dead	NO	<=65	Bilateral	Stage IV	NA	G3	WITH TUMOR	Complete Remission/Response	>20 mm	L
+TCGA-24-2297	Dead	NA	<=65	Bilateral	Stage III	NA	G3	NA	Complete Remission/Response	>20 mm	L
+TCGA-24-1557	Dead	NO	<=65	Bilateral	Stage III	NA	G3	WITH TUMOR	Partial Remission/Response	>20 mm	L
+TCGA-13-1481	Dead	NA	>65	Right	Stage III	NA	G2	TUMOR FREE	Complete Remission/Response	1-10 mm	L
+TCGA-24-1413	Alive	NA	<=65	Bilateral	Stage III	YES	G3	TUMOR FREE	Complete Remission/Response	1-10 mm	L
+TCGA-24-1423	Alive	NA	<=65	Bilateral	Stage III	YES	G3	TUMOR FREE	Complete Remission/Response	1-10 mm	L
+TCGA-24-1424	Alive	NA	>65	Bilateral	Stage III	NA	G3	TUMOR FREE	Complete Remission/Response	1-10 mm	L
+TCGA-23-1029	Alive	NA	<=65	Right	Stage III	NA	G3	TUMOR FREE	Complete Remission/Response	1-10 mm	L
+TCGA-29-1691	Dead	NO	<=65	Bilateral	Stage III	NA	G2	WITH TUMOR	Complete Remission/Response	1-10 mm	L
+TCGA-09-1674	Alive	NA	>65	Bilateral	Stage III	NO	G3	WITH TUMOR	Complete Remission/Response	1-10 mm	L
+TCGA-23-1122	Dead	YES	<=65	Left	Stage III	NO	G3	WITH TUMOR	Complete Remission/Response	1-10 mm	L
+TCGA-24-1552	Dead	NO	>65	Left	Stage III	YES	G3	WITH TUMOR	Complete Remission/Response	1-10 mm	L
+TCGA-24-1467	Dead	NO	<=65	Right	Stage III	YES	G3	WITH TUMOR	Complete Remission/Response	1-10 mm	L
+TCGA-24-1103	Dead	NO	<=65	Bilateral	Stage III	NA	G3	WITH TUMOR	Complete Remission/Response	1-10 mm	L
+TCGA-24-2024	Dead	NO	>65	Bilateral	Stage III	NA	G3	WITH TUMOR	Complete Remission/Response	1-10 mm	L
+TCGA-25-1632	Dead	NO	>65	Bilateral	Stage IV	NA	G3	WITH TUMOR	Complete Remission/Response	1-10 mm	L
+TCGA-24-2036	Dead	YES	<=65	NA	Stage III	NA	G3	WITH TUMOR	Complete Remission/Response	1-10 mm	L
+TCGA-25-1315	Dead	NO	<=65	Bilateral	Stage III	NA	G3	WITH TUMOR	Partial Remission/Response	1-10 mm	L
+TCGA-24-0975	Dead	NA	<=65	Bilateral	Stage III	NA	G3	WITH TUMOR	Partial Remission/Response	1-10 mm	L
+TCGA-24-1558	Dead	NO	>65	Bilateral	Stage III	NA	G3	WITH TUMOR	Partial Remission/Response	1-10 mm	L
+TCGA-04-1364	Dead	NO	<=65	Bilateral	Stage III	NO	G3	WITH TUMOR	Progressive Disease	1-10 mm	L
+TCGA-23-2081	Dead	NO	<=65	Bilateral	Stage IV	YES	G3	WITH TUMOR	Progressive Disease	1-10 mm	L
+TCGA-09-2045	Dead	NO	<=65	Bilateral	Stage IV	YES	G2	WITH TUMOR	Stable Disease	1-10 mm	L
+TCGA-10-0928	Dead	NA	>65	Bilateral	Stage III	NO	G3	WITH TUMOR	NA	1-10 mm	L
+TCGA-24-1567	Dead	NO	<=65	Bilateral	Stage III	NA	G3	WITH TUMOR	NA	1-10 mm	L
+TCGA-13-0920	Dead	NA	>65	Bilateral	Stage III	NA	G3	WITH TUMOR	NA	1-10 mm	L
+TCGA-13-1405	Dead	NA	<=65	Bilateral	Stage IV	NA	G3	WITH TUMOR	NA	1-10 mm	L
+TCGA-24-2019	Alive	NA	<=65	Bilateral	Stage III	NA	G3	NA	NA	1-10 mm	L
+TCGA-24-1419	Alive	NA	<=65	Bilateral	Stage III	NA	G3	TUMOR FREE	Complete Remission/Response	11-20 mm	L
+TCGA-20-1682	Alive	NA	<=65	Bilateral	Stage III	YES	GX	TUMOR FREE	Complete Remission/Response	11-20 mm	L
+TCGA-09-0364	Dead	YES	>65	Right	Stage II	NO	G3	WITH TUMOR	Complete Remission/Response	11-20 mm	L
+TCGA-04-1514	Dead	NO	<=65	Bilateral	Stage III	NO	G2	TUMOR FREE	Complete Remission/Response	No Macroscopic disease	L
+TCGA-09-1670	Alive	NO	<=65	Bilateral	Stage III	NO	G3	WITH TUMOR	Complete Remission/Response	No Macroscopic disease	L
+TCGA-09-1669	Alive	NA	<=65	Right	Stage III	NO	G3	WITH TUMOR	Complete Remission/Response	No Macroscopic disease	L
+TCGA-09-0369	Dead	NO	<=65	Left	Stage III	YES	G3	WITH TUMOR	Complete Remission/Response	No Macroscopic disease	L
+TCGA-25-1634	Dead	YES	>65	Bilateral	Stage III	NA	G3	WITH TUMOR	Complete Remission/Response	No Macroscopic disease	L
+TCGA-23-1114	Dead	NO	<=65	Left	Stage III	NA	G3	WITH TUMOR	Complete Remission/Response	No Macroscopic disease	L
+TCGA-13-0799	Alive	NA	<=65	Bilateral	Stage III	NA	G3	TUMOR FREE	NA	No Macroscopic disease	L
+TCGA-13-0800	Alive	NA	<=65	Bilateral	Stage III	NA	G3	TUMOR FREE	NA	No Macroscopic disease	L
+TCGA-13-0913	Alive	NA	<=65	Bilateral	Stage III	NA	G3	WITH TUMOR	NA	No Macroscopic disease	L
+TCGA-13-1489	Dead	NA	>65	Bilateral	Stage III	NA	G2	TUMOR FREE	NA	NA	L
+TCGA-13-1506	Dead	NA	<=65	Bilateral	Stage III	NA	G3	WITH TUMOR	NA	NA	L
+TCGA-25-1317	Dead	NA	>65	Bilateral	Stage III	NA	G3	NA	NA	NA	L
+TCGA-04-1519	Alive	NA	<=65	NA	Stage III	NA	G3	NA	NA	NA	L
+TCGA-29-1762	Dead	NO	<=65	Bilateral	Stage IV	NA	G2	WITH TUMOR	Complete Remission/Response	>20 mm	L
+TCGA-36-1570	Alive	NO	<=65	Bilateral	Stage III	YES	G3	WITH TUMOR	Partial Remission/Response	>20 mm	L
+TCGA-59-2350	Dead	NA	<=65	Bilateral	Stage IV	NA	G3	WITH TUMOR	Partial Remission/Response	1-10 mm	L
+TCGA-61-1998	Alive	NA	<=65	Bilateral	Stage III	YES	G3	WITH TUMOR	NA	1-10 mm	L
+TCGA-30-1861	Dead	NA	>65	Bilateral	Stage III	NA	G3	NA	NA	1-10 mm	L
+TCGA-61-2098	Alive	NA	<=65	Bilateral	Stage III	NA	G2	TUMOR FREE	Complete Remission/Response	11-20 mm	L
+TCGA-61-2101	Dead	NA	<=65	Bilateral	Stage III	NA	G2	WITH TUMOR	Partial Remission/Response	11-20 mm	L
+TCGA-59-2363	Alive	NA	<=65	Bilateral	Stage III	NO	G3	TUMOR FREE	Complete Remission/Response	No Macroscopic disease	L
+TCGA-61-2110	Dead	YES	<=65	Bilateral	Stage III	NA	NA	WITH TUMOR	Progressive Disease	No Macroscopic disease	L
+TCGA-61-1900	Alive	NA	<=65	Bilateral	Stage III	NO	G3	TUMOR FREE	Stable Disease	No Macroscopic disease	L
+TCGA-61-1733	Alive	NO	>65	Bilateral	Stage III	YES	G3	WITH TUMOR	Stable Disease	No Macroscopic disease	L
+TCGA-57-1583	Dead	NA	<=65	Left	Stage III	NO	G3	WITH TUMOR	NA	No Macroscopic disease	L
+TCGA-59-2348	Alive	NA	<=65	Bilateral	Stage III	NA	G3	TUMOR FREE	Complete Remission/Response	NA	L
+TCGA-61-2102	Dead	NA	>65	Right	Stage III	NA	G3	WITH TUMOR	NA	NA	L

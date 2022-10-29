@@ -1,0 +1,236 @@
+id	futime	fustat	age	anatomic_subdivision	clinical_stage	histologic_grade	tumor_residual_disease	intermediate_dimension	longest_dimension	shortest_dimension	riskScore
+TCGA-29-1691	1470	1	51	Bilateral	Stage III	G2	small	0.4	0.5	0.05	1.653343957
+TCGA-25-1871	760	1	70	Bilateral	Stage III	G3	middle	0.5	0.7	0.1	1.957258917
+TCGA-61-1998	168	0	48	Bilateral	Stage III	G3	small	0.5	1	0.1	1.601063234
+TCGA-61-2016	36	1	51	Bilateral	Stage III	G3	No Macroscopic disease	0.6	1.5	0.1	2.054405992
+TCGA-59-2355	65	1	58	Right	Stage IV	G3	large	0.4	0.6	0.2	1.508095331
+TCGA-61-1737	1364	0	42	Bilateral	Stage IV	G3	small	0.3	0.7	0.2	1.493425332
+TCGA-09-2048	138	1	63	Bilateral	Stage III	G3	small	0.7	1	0.2	1.552255531
+TCGA-61-1995	61	0	43	Bilateral	Stage III	G3	small	1.1	1.1	0.2	1.675057952
+TCGA-61-1728	848	0	59	Bilateral	Stage IV	G3	small	0.6	1.1	0.2	1.715416695
+TCGA-31-1950	571	0	76	Bilateral	Stage III	G2	small	0.9	1.2	0.2	1.605416119
+TCGA-61-1738	1089	1	60	Right	Stage III	G3	small	1.2	1.2	0.2	1.450234813
+TCGA-61-2002	547	0	46	Bilateral	Stage III	G3	middle	0.4	1.2	0.2	1.504201979
+TCGA-25-1633	1891	1	64	Bilateral	Stage III	G3	small	1	1.3	0.2	2.164666345
+TCGA-61-2003	122	0	53	Bilateral	Stage III	G2	small	1.4	1.5	0.2	1.835746272
+TCGA-24-2281	1357	0	68	Bilateral	Stage II	G3	small	0.9	1.5	0.2	1.425124455
+TCGA-61-1733	967	0	71	Bilateral	Stage III	G3	No Macroscopic disease	0.6	1.5	0.2	1.406845861
+TCGA-61-2109	629	1	40	Bilateral	Stage III	G3	large	0.8	1.7	0.2	1.718297343
+TCGA-61-2009	1212	0	65	Bilateral	Stage III	G3	middle	2	2	0.2	1.734232745
+TCGA-30-1860	1366	1	58	Bilateral	Stage III	G3	large	0.4	0.5	0.3	1.301583611
+TCGA-61-1740	74	1	71	Right	Stage III	G3	large	0.4	0.6	0.3	1.517463403
+TCGA-31-1951	684	0	58	Left	Stage III	G3	No Macroscopic disease	0.5	0.7	0.3	1.725061446
+TCGA-23-1029	268	0	46	Right	Stage III	G3	small	0.8	0.8	0.3	1.509397075
+TCGA-20-1685	508	0	45	Bilateral	Stage III	G3	small	0.7	0.8	0.3	1.376051164
+TCGA-29-1696	1032	1	43	Right	Stage III	G2	small	0.8	0.8	0.3	1.434359338
+TCGA-57-1585	53	1	57	Bilateral	Stage III	G3	middle	0.6	0.8	0.3	1.71936789
+TCGA-09-2051	1919	0	42	Bilateral	Stage III	G3	No Macroscopic disease	0.7	0.8	0.3	1.670094374
+TCGA-09-1669	928	0	54	Right	Stage III	G3	No Macroscopic disease	0.5	0.9	0.3	1.675955276
+TCGA-24-2297	1699	1	56	Bilateral	Stage III	G3	large	0.6	1	0.3	1.502024048
+TCGA-24-1847	343	0	45	Bilateral	Stage IV	G3	small	0.9	1	0.3	1.634651641
+TCGA-24-2035	857	1	65	Left	Stage III	G3	small	0.7	1	0.3	1.691757845
+TCGA-23-1023	1233	0	65	Right	Stage III	G3	small	0.6	1	0.3	1.361456842
+TCGA-20-1682	837	0	56	Bilateral	Stage III	GX	middle	0.4	1	0.3	1.649290525
+TCGA-31-1946	918	0	30	Bilateral	Stage III	G3	No Macroscopic disease	0.9	1	0.3	1.716466162
+TCGA-31-1944	1386	0	47	Bilateral	Stage III	G3	No Macroscopic disease	0.5	1	0.3	1.647076162
+TCGA-24-1567	524	1	54	Bilateral	Stage III	G3	small	0.3	1.1	0.3	1.391265258
+TCGA-24-1418	243	0	68	Bilateral	Stage III	G3	large	1.2	1.2	0.3	1.822869194
+TCGA-04-1364	1024	1	61	Bilateral	Stage III	G3	small	0.6	1.2	0.3	1.54217179
+TCGA-13-1505	1998	0	63	Bilateral	Stage III	G3	small	1	1.2	0.3	1.739166772
+TCGA-29-1694	1187	1	45	Bilateral	Stage III	GX	middle	1	1.2	0.3	1.52990164
+TCGA-13-0893	1319	1	48	Bilateral	Stage III	G3	middle	1	1.2	0.3	1.780644
+TCGA-61-1724	637	1	47	Bilateral	Stage III	G3	No Macroscopic disease	1.2	1.2	0.3	1.636949851
+TCGA-24-1417	238	0	54	Left	Stage IV	G3	small	1.1	1.3	0.3	1.497758705
+TCGA-25-2393	1157	1	81	Left	Stage III	G3	middle	0.7	1.3	0.3	1.523803573
+TCGA-25-2042	396	1	60	Bilateral	Stage III	G3	large	0.6	1.4	0.3	1.940803893
+TCGA-25-1632	1799	1	68	Bilateral	Stage IV	G3	small	0.8	1.4	0.3	1.496340196
+TCGA-29-1698	2078	0	53	Bilateral	Stage III	G3	small	0.9	1.4	0.3	1.832519574
+TCGA-25-2391	1492	1	57	Bilateral	Stage III	G3	large	1	1.5	0.3	1.487339268
+TCGA-24-2019	148	0	46	Bilateral	Stage III	G3	small	1	1.5	0.3	1.592596665
+TCGA-24-1436	260	0	57	Right	Stage III	G3	small	0.7	1.5	0.3	1.733314346
+TCGA-24-1469	277	0	71	Right	Stage III	G3	small	0.7	1.5	0.3	1.649696307
+TCGA-25-1627	394	1	73	Bilateral	Stage III	G3	small	1	1.5	0.3	1.542999875
+TCGA-25-1625	840	1	66	Bilateral	Stage III	G3	small	1.3	1.5	0.3	1.710807465
+TCGA-25-2392	31	1	75	Bilateral	Stage IV	G3	middle	1	1.5	0.3	1.605088271
+TCGA-24-1928	336	1	77	Bilateral	Stage III	G3	middle	0.5	1.5	0.3	1.796963404
+TCGA-61-1743	1329	1	53	Bilateral	Stage II	G2	No Macroscopic disease	1	1.5	0.3	1.807278298
+TCGA-13-0801	1399	1	46	Bilateral	Stage III	G3	No Macroscopic disease	0.6	1.5	0.3	1.277037215
+TCGA-24-2267	1446	1	58	Bilateral	Stage II	G3	No Macroscopic disease	1.3	1.5	0.3	1.659378032
+TCGA-13-0800	2661	0	52	Bilateral	Stage III	G3	No Macroscopic disease	0.9	1.5	0.3	1.367259297
+TCGA-13-0799	2535	0	44	Bilateral	Stage III	G3	No Macroscopic disease	1.1	1.6	0.3	1.213077379
+TCGA-25-1635	1583	1	71	Bilateral	Stage III	G3	small	1.3	1.7	0.3	1.979586632
+TCGA-25-2401	90	1	64	Bilateral	Stage III	G3	small	1	1.8	0.3	1.462494033
+TCGA-24-1419	239	0	62	Bilateral	Stage III	G3	middle	1.2	1.8	0.3	1.65652069
+TCGA-25-1623	565	1	71	Bilateral	Stage IV	G3	No Macroscopic disease	1	1.8	0.3	1.966371811
+TCGA-59-2354	1046	1	63	Left	Stage III	G3	small	1	2.4	0.3	1.652842411
+TCGA-29-1693	3096	0	72	Left	Stage III	G3	large	0.7	0.7	0.4	1.412960725
+TCGA-23-1026	816	0	45	Left	Stage III	G3	small	0.7	0.8	0.4	1.441025991
+TCGA-30-1861	1058	1	74	Bilateral	Stage III	G3	small	0.4	0.8	0.4	1.349358922
+TCGA-23-1111	98	0	63	Right	Stage III	G3	large	0.9	0.9	0.4	1.918397969
+TCGA-29-1776	360	0	63	Bilateral	Stage III	G3	large	0.7	0.9	0.4	1.313333897
+TCGA-29-1761	528	1	80	Bilateral	Stage III	G3	large	0.5	0.9	0.4	1.861474586
+TCGA-29-1762	2634	1	59	Bilateral	Stage IV	G2	large	0.9	0.9	0.4	1.434559474
+TCGA-23-1809	16	0	63	Right	Stage II	G3	small	0.6	0.9	0.4	1.730836621
+TCGA-24-1616	1163	1	56	Bilateral	Stage III	G3	small	0.7	0.9	0.4	1.689012199
+TCGA-09-1659	304	1	51	Bilateral	Stage III	G3	large	0.6	1	0.4	1.57961377
+TCGA-24-2298	1620	1	55	Bilateral	Stage III	G3	large	0.4	1	0.4	1.625776167
+TCGA-10-0928	563	1	71	Bilateral	Stage III	G3	small	0.8	1	0.4	1.355080897
+TCGA-20-1684	581	0	51	Bilateral	Stage III	G3	small	0.5	1	0.4	1.798108572
+TCGA-24-2038	1354	1	68	Right	Stage III	GB	small	0.6	1	0.4	1.825825729
+TCGA-13-0920	1484	1	65	Bilateral	Stage III	G3	small	0.7	1	0.4	1.636974763
+TCGA-24-2254	1736	1	66	Bilateral	Stage III	G3	small	1	1	0.4	2.149591904
+TCGA-61-1725	956	0	40	Bilateral	Stage III	G3	middle	0.8	1	0.4	1.266635926
+TCGA-61-2000	441	0	67	Bilateral	Stage III	G3	No Macroscopic disease	1	1	0.4	2.042155585
+TCGA-61-1918	479	1	45	Bilateral	Stage IV	G3	No Macroscopic disease	0.4	1	0.4	1.562826737
+TCGA-20-1683	772	0	65	Right	Stage III	G3	No Macroscopic disease	0.5	1	0.4	1.749320729
+TCGA-09-1667	1882	0	61	Bilateral	Stage II	G2	No Macroscopic disease	0.7	1	0.4	1.975039528
+TCGA-23-1114	2089	1	55	Left	Stage III	G3	No Macroscopic disease	0.6	1	0.4	1.697325279
+TCGA-13-0730	542	1	71	Bilateral	Stage III	G3	large	0.6	1.1	0.4	1.567826967
+TCGA-29-1695	1229	1	62	Left	Stage III	G2	large	1	1.1	0.4	2.042280622
+TCGA-24-1844	113	0	64	Bilateral	Stage III	G3	small	1	1.1	0.4	1.758242488
+TCGA-24-1413	192	0	51	Bilateral	Stage III	G3	small	0.6	1.1	0.4	1.503159074
+TCGA-24-1563	1451	1	66	Left	Stage III	G3	small	1.1	1.1	0.4	1.609408041
+TCGA-24-2020	4624	1	67	Bilateral	Stage III	G3	small	0.8	1.1	0.4	1.53174586
+TCGA-23-2077	3525	0	45	Left	Stage III	G3	No Macroscopic disease	0.9	1.1	0.4	1.739669645
+TCGA-61-1741	1024	1	76	Bilateral	Stage III	G3	large	1	1.2	0.4	1.989163598
+TCGA-29-1785	1104	1	55	Right	Stage III	G3	large	0.7	1.2	0.4	1.450772176
+TCGA-61-1914	1722	0	65	Bilateral	Stage III	G3	large	1	1.2	0.4	1.67283841
+TCGA-29-1783	220	0	58	Right	Stage III	G3	small	1	1.2	0.4	1.961517013
+TCGA-24-1548	493	1	57	Bilateral	Stage III	G3	small	0.7	1.2	0.4	1.896269975
+TCGA-30-1891	914	1	61	Bilateral	Stage III	G2	small	0.8	1.2	0.4	1.856392662
+TCGA-29-1781	255	0	69	Bilateral	Stage III	G3	No Macroscopic disease	1	1.2	0.4	1.486655691
+TCGA-61-2008	932	0	40	Bilateral	Stage II	G2	No Macroscopic disease	0.7	1.2	0.4	1.639119667
+TCGA-29-1711	1053	0	45	Bilateral	Stage III	G2	No Macroscopic disease	1.1	1.2	0.4	1.644231026
+TCGA-61-2095	1875	1	54	Bilateral	Stage III	G2	No Macroscopic disease	1	1.2	0.4	2.209836535
+TCGA-30-1718	1579	1	44	Bilateral	Stage III	G3	small	0.6	1.3	0.4	1.541090761
+TCGA-24-1553	1767	1	53	Bilateral	Stage III	G3	small	0.8	1.3	0.4	1.881955852
+TCGA-61-2092	1573	0	57	Bilateral	Stage III	G3	No Macroscopic disease	1.2	1.3	0.4	1.484635804
+TCGA-13-0913	3325	0	53	Bilateral	Stage III	G3	No Macroscopic disease	0.6	1.3	0.4	1.018902094
+TCGA-25-1626	518	1	65	Right	Stage III	G3	large	0.5	1.4	0.4	1.855860365
+TCGA-24-1843	106	0	66	Right	Stage III	G3	small	1	1.4	0.4	1.828064385
+TCGA-24-1564	787	1	67	Bilateral	Stage III	G3	small	1	1.4	0.4	1.853716447
+TCGA-25-1630	1162	1	73	Bilateral	Stage III	G3	small	1	1.4	0.4	1.680717227
+TCGA-29-1703	1815	1	56	Bilateral	Stage III	G2	small	1	1.4	0.4	1.792511362
+TCGA-13-1481	2648	1	76	Right	Stage III	G2	small	1.3	1.4	0.4	1.365791044
+TCGA-61-2088	145	0	51	Bilateral	Stage III	G3	No Macroscopic disease	1	1.4	0.4	2.208813011
+TCGA-57-1583	346	1	57	Left	Stage III	G3	No Macroscopic disease	1	1.4	0.4	1.513462477
+TCGA-24-2289	2049	1	68	Bilateral	Stage IV	G3	large	1	1.5	0.4	1.581200118
+TCGA-24-2262	11	1	57	Right	Stage III	G3	small	0.6	1.5	0.4	2.060822472
+TCGA-24-1425	181	0	45	Bilateral	Stage III	G3	small	0.8	1.5	0.4	1.623879588
+TCGA-25-2409	821	1	71	Bilateral	Stage IV	G3	small	1.5	1.5	0.4	1.449048834
+TCGA-09-2045	1069	1	50	Bilateral	Stage IV	G2	small	0.7	1.5	0.4	1.359777303
+TCGA-61-1910	1127	0	56	Bilateral	Stage II	G3	small	1	1.5	0.4	1.479731509
+TCGA-04-1348	1483	1	44	Bilateral	Stage III	G3	small	1	1.5	0.4	1.413004611
+TCGA-24-1546	1955	1	46	Bilateral	Stage III	G3	small	0.4	1.5	0.4	1.677518675
+TCGA-13-0890	4424	0	56	Bilateral	Stage III	G3	small	1.5	1.5	0.4	1.301368243
+TCGA-61-2101	1688	1	55	Bilateral	Stage III	G2	middle	0.4	1.5	0.4	1.497918152
+TCGA-29-1784	163	0	55	Right	Stage III	G3	No Macroscopic disease	1	1.5	0.4	1.262710367
+TCGA-59-2363	165	0	40	Bilateral	Stage III	G3	No Macroscopic disease	1	1.5	0.4	1.418521739
+TCGA-61-2104	2338	0	53	Bilateral	Stage II	G2	No Macroscopic disease	0.6	1.5	0.4	1.658887516
+TCGA-25-2399	608	1	80	Bilateral	Stage III	G3	large	0.8	1.6	0.4	1.675367129
+TCGA-36-1569	885	0	52	Bilateral	Stage III	G3	small	0.9	1.6	0.4	1.399901046
+TCGA-61-1907	952	0	63	Bilateral	Stage III	G3	middle	0.9	1.6	0.4	1.692777202
+TCGA-09-2056	379	0	62	Bilateral	Stage III	G3	No Macroscopic disease	0.7	1.6	0.4	1.445034082
+TCGA-09-1670	547	0	57	Bilateral	Stage III	G3	No Macroscopic disease	0.5	1.6	0.4	1.497375812
+TCGA-29-2428	1372	0	58	Left	Stage III	G3	large	1.2	1.7	0.4	1.526150411
+TCGA-24-2261	24	0	76	Left	Stage III	G3	middle	1.4	1.7	0.4	1.761369351
+TCGA-29-1710	951	1	54	Bilateral	Stage III	G2	small	1.1	1.8	0.4	2.075636813
+TCGA-09-2044	186	1	77	Right	Stage II	G3	No Macroscopic disease	1.4	1.8	0.4	1.228948496
+TCGA-29-1697	949	1	62	Bilateral	Stage III	G3	large	0.8	1.9	0.4	1.712311429
+TCGA-25-1631	9	1	73	Bilateral	Stage III	G3	small	2	2	0.4	1.925301442
+TCGA-09-2054	637	1	58	Bilateral	Stage III	G3	small	0.8	2	0.4	1.860054544
+TCGA-13-1507	1993	0	77	Bilateral	Stage III	G3	small	1.1	2	0.4	1.966993694
+TCGA-59-2351	3532	0	51	Bilateral	Stage III	G3	small	0.8	2	0.4	1.498818576
+TCGA-13-1512	442	0	49	Bilateral	Stage III	G3	No Macroscopic disease	1.4	2	0.4	1.353631335
+TCGA-13-1511	1650	1	52	Bilateral	Stage IV	G3	large	1.6	2.2	0.4	1.723766951
+TCGA-23-2081	2342	1	49	Bilateral	Stage IV	G3	small	0.7	0.8	0.5	1.522438324
+TCGA-23-2078	2661	0	66	Bilateral	Stage III	G3	No Macroscopic disease	0.6	0.9	0.5	1.466814176
+TCGA-10-0936	1123	1	69	Bilateral	Stage III	G3	large	0.6	1	0.5	1.31646297
+TCGA-24-1924	919	1	65	Bilateral	Stage III	G3	small	0.5	1	0.5	1.776911837
+TCGA-24-1562	1384	1	67	Bilateral	Stage III	G3	small	0.9	1	0.5	1.669802846
+TCGA-29-2414	2621	1	75	Left	Stage III	G2	middle	0.7	1	0.5	1.564814959
+TCGA-23-1122	1189	1	53	Left	Stage III	G3	small	0.8	1.1	0.5	1.576157354
+TCGA-24-1560	1341	1	51	Left	Stage III	G4	small	1	1.1	0.5	1.807058335
+TCGA-24-2024	1769	1	72	Bilateral	Stage III	G3	small	1	1.1	0.5	1.341997161
+TCGA-13-0897	2182	0	54	Right	Stage III	G3	small	0.5	1.1	0.5	1.387562407
+TCGA-29-1778	454	0	77	Right	Stage III	G3	No Macroscopic disease	1	1.1	0.5	1.798210269
+TCGA-25-2400	1278	1	76	Bilateral	Stage III	G3	No Macroscopic disease	1.1	1.1	0.5	1.241285522
+TCGA-04-1514	1720	1	45	Bilateral	Stage III	G2	No Macroscopic disease	0.5	1.1	0.5	1.489714336
+TCGA-24-2288	25	1	70	Bilateral	Stage III	G3	large	0.6	1.2	0.5	1.880363465
+TCGA-29-1702	728	1	84	Right	Stage III	G3	small	0.7	1.2	0.5	2.047849385
+TCGA-29-1770	741	0	54	Bilateral	Stage III	G2	small	0.6	1.2	0.5	1.313052823
+TCGA-24-2023	1364	0	54	Bilateral	Stage III	G3	small	1	1.2	0.5	1.695665698
+TCGA-24-1551	1579	1	53	Bilateral	Stage III	G3	small	0.7	1.2	0.5	1.805559529
+TCGA-13-1405	868	1	49	Bilateral	Stage IV	G3	small	1.3	1.3	0.5	1.780251976
+TCGA-29-1763	2032	0	43	Bilateral	Stage II	G2	small	0.7	1.3	0.5	1.446318842
+TCGA-24-1544	820	1	71	Bilateral	Stage III	G3	small	0.8	1.4	0.5	2.036941801
+TCGA-23-2084	1516	1	45	Right	Stage IV	G3	No Macroscopic disease	1.1	1.4	0.5	1.541036047
+TCGA-24-1557	1213	1	49	Bilateral	Stage III	G3	large	0.9	1.5	0.5	1.429563112
+TCGA-29-2427	1900	0	60	Left	Stage III	G3	large	1	1.5	0.5	1.650462661
+TCGA-24-1416	194	0	34	Bilateral	Stage IV	G3	small	0.6	1.5	0.5	1.38699703
+TCGA-24-1428	529	0	50	Left	Stage III	G3	small	1.2	1.5	0.5	1.431014672
+TCGA-24-1435	1324	1	57	Bilateral	Stage III	G3	small	1.2	1.5	0.5	1.570309366
+TCGA-25-2398	1369	1	71	Bilateral	Stage III	G3	small	1.3	1.5	0.5	2.263625145
+TCGA-09-1662	2717	1	58	Left	Stage IV	G3	small	0.7	1.5	0.5	1.533026408
+TCGA-57-1993	763	0	56	Bilateral	Stage III	G3	No Macroscopic disease	0.5	1.5	0.5	1.860895655
+TCGA-24-2271	962	1	55	Bilateral	Stage III	G3	large	0.8	1.6	0.5	1.512293875
+TCGA-13-0899	2012	1	60	Bilateral	Stage III	G3	small	1.3	1.6	0.5	1.368198643
+TCGA-24-1545	1746	1	69	Bilateral	Stage III	G3	large	1	1.8	0.5	1.689175054
+TCGA-24-1849	176	0	80	Bilateral	Stage III	G3	small	1.4	1.8	0.5	1.71999181
+TCGA-24-0975	663	1	58	Bilateral	Stage III	G3	small	0.8	1.8	0.5	1.331779866
+TCGA-20-1687	81	0	46	Bilateral	Stage IV	G3	No Macroscopic disease	0.8	1.8	0.5	1.584807979
+TCGA-24-1463	2218	1	70	Bilateral	Stage III	G3	large	1.3	2	0.5	1.577160608
+TCGA-24-1850	168	0	72	Bilateral	Stage III	G3	small	1.5	2	0.5	1.601098354
+TCGA-61-2097	1844	0	71	Bilateral	Stage II	G2	small	2	2	0.5	1.70842685
+TCGA-61-2098	1993	0	62	Bilateral	Stage III	G2	middle	0.7	2	0.5	1.704460815
+TCGA-13-2060	2369	0	51	Bilateral	Stage IV	G3	small	1.5	2.5	0.5	1.399358722
+TCGA-23-1123	1018	1	59	Left	Stage III	G3	middle	0.8	0.8	0.6	1.447752272
+TCGA-24-1930	2467	1	53	Bilateral	Stage III	G3	small	1	1	0.6	1.692913527
+TCGA-24-1846	133	0	45	Bilateral	Stage III	G3	small	0.7	1.1	0.6	1.600810726
+TCGA-04-1362	1348	1	59	Bilateral	Stage II	G3	small	1	1.2	0.6	1.765412697
+TCGA-24-1434	568	1	59	Bilateral	Stage III	G3	small	1.5	1.5	0.6	1.939289231
+TCGA-29-1699	1106	1	57	Bilateral	Stage III	G3	small	0.8	1.5	0.6	1.688611019
+TCGA-24-1103	1646	1	50	Bilateral	Stage III	G3	small	1	1.5	0.6	1.254675515
+TCGA-61-1900	176	0	51	Bilateral	Stage III	G3	No Macroscopic disease	0.9	1.5	0.6	1.366951508
+TCGA-09-1666	1752	0	57	Bilateral	Stage III	G3	No Macroscopic disease	0.6	1.5	0.6	1.541751905
+TCGA-13-0916	1785	0	49	Bilateral	Stage III	G3	No Macroscopic disease	1	1.5	0.6	1.2903116
+TCGA-24-2027	3337	1	51	Bilateral	Stage IV	G3	large	0.8	1.6	0.6	1.613324793
+TCGA-36-1577	783	0	43	Bilateral	Stage II	G2	No Macroscopic disease	0.6	1.7	0.6	1.786304254
+TCGA-23-1120	130	0	60	Right	Stage III	G3	small	0.8	1.8	0.6	1.603277123
+TCGA-24-1423	190	0	61	Bilateral	Stage III	G3	small	1	1.8	0.6	1.667324863
+TCGA-24-1556	2148	1	50	Left	Stage II	G3	small	1	1.9	0.6	1.36594714
+TCGA-57-1582	731	1	50	Left	Stage III	G3	small	0.6	2	0.6	1.399242062
+TCGA-25-2404	883	1	38	Bilateral	Stage III	G3	No Macroscopic disease	1	2	0.6	1.545137707
+TCGA-25-1323	395	1	72	Bilateral	Stage III	G3	small	2	2.5	0.6	1.846975936
+TCGA-09-1673	92	1	50	Bilateral	Stage IV	G3	large	1	3	0.6	1.933941922
+TCGA-25-1329	457	1	76	Bilateral	Stage III	G3	middle	2.6	3	0.6	1.698102337
+TCGA-24-1474	676	1	57	Left	Stage III	G3	small	1	1	0.7	1.898812097
+TCGA-36-1570	655	0	49	Bilateral	Stage III	G3	large	1	1.3	0.7	1.298019485
+TCGA-24-1467	3224	1	51	Right	Stage III	G3	small	1.2	1.3	0.7	1.390585082
+TCGA-29-1690	1448	1	66	Bilateral	Stage III	G2	middle	1.3	1.4	0.7	1.936159545
+TCGA-24-1842	253	0	49	Bilateral	Stage III	G3	small	0.7	1.5	0.7	1.990501651
+TCGA-24-1550	1249	1	49	Left	Stage III	G3	small	1	1.5	0.7	1.577196965
+TCGA-24-1427	147	0	58	Bilateral	Stage III	G3	large	1	1.7	0.7	1.585554803
+TCGA-29-1705	555	1	47	Bilateral	Stage III	G2	large	1.1	1.8	0.7	1.265692852
+TCGA-09-1674	260	0	79	Bilateral	Stage III	G3	small	1.5	2.1	0.7	1.73303227
+TCGA-25-2397	365	1	59	Bilateral	Stage IV	G3	No Macroscopic disease	1.3	2.2	0.7	1.77465893
+TCGA-24-1552	1259	1	77	Left	Stage III	G3	small	0.8	0.9	0.8	1.491000066
+TCGA-25-1324	1035	1	74	Bilateral	Stage III	G3	small	1	1.5	0.8	1.727938311
+TCGA-24-1430	863	1	68	Bilateral	Stage III	G3	large	1.7	2	0.8	1.647238584
+TCGA-57-1584	643	0	47	Bilateral	Stage III	G3	small	1	2.3	0.8	1.600099139
+TCGA-25-1322	91	1	62	Bilateral	Stage IV	G3	large	1.8	2.6	0.8	1.711930249
+TCGA-25-1321	1033	1	65	Bilateral	Stage III	G3	No Macroscopic disease	1.6	3	0.8	1.700701524
+TCGA-25-1314	1004	1	42	Bilateral	Stage IV	G3	small	2	4.5	0.8	1.852865302
+TCGA-25-1318	1064	1	54	Bilateral	Stage III	G3	small	2	4.5	0.8	1.773940323
+TCGA-36-1571	695	1	53	Bilateral	Stage III	G3	No Macroscopic disease	0.9	1.3	0.9	1.46434241
+TCGA-24-1558	594	1	73	Bilateral	Stage III	G3	small	1	1.9	0.9	1.576379391
+TCGA-25-1315	1583	1	50	Bilateral	Stage III	G3	small	2	3.5	0.9	1.680328273
+TCGA-24-2026	1059	1	79	Bilateral	Stage III	G3	large	1	1	1	1.692750279
+TCGA-25-2396	92	1	71	Bilateral	Stage III	G3	No Macroscopic disease	1	1	1	1.518207305
+TCGA-25-1328	2009	1	38	Bilateral	Stage III	G3	small	1.8	2.8	1	1.995833689
+TCGA-25-1312	31	1	69	Left	Stage IV	G3	small	2.5	3	1	1.871910399
+TCGA-25-1319	1977	0	73	Bilateral	Stage III	G3	middle	2.5	3	1	1.784007442
+TCGA-25-1320	1155	1	65	Bilateral	Stage III	G3	small	3	3.4	1	1.645860408
+TCGA-25-1326	1249	1	61	Bilateral	Stage III	G3	small	2.5	3	1.2	1.775713275
+TCGA-25-1313	820	1	62	Bilateral	Stage IV	G3	small	1.5	2	1.5	1.568898976
+TCGA-25-1316	1279	1	55	Right	Stage III	G3	small	2.5	3	1.5	1.732999026
